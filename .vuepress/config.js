@@ -5,9 +5,9 @@
  */
 
 module.exports = {
-    base: '/wiki/imageviewer/',
+    base: '/imageviewer/',
     title: '移动图片放大浏览器',
-    dest: 'output/wiki/imageviewer',
+    dest: 'output/imageviewer',
     description: '移动图片放大浏览器',
     head: [
         ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
